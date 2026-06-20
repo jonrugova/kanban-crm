@@ -75,4 +75,4 @@ AI was used to assist with ideation, debugging, and code review. All architectur
 
 ## Development Time
 
-Approximately 8–10 hours.
+Approximately 4 hours.
