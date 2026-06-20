@@ -6,23 +6,23 @@ This project is a Kanban-style CRM prototype built for a tax advisory firm's cli
 
 ## Features
 
-- Drag and drop client cards between onboarding stages
-- Create new clients directly in any column
-- View, edit, and delete client records
-- Stage-specific onboarding details
-- Search clients by name or email
-- Client details modal
-- Data persistence using localStorage
-- Clean and responsive user interface
+* Drag and drop client cards between onboarding stages
+* Create new clients directly in any column
+* View, edit, and delete client records
+* Stage-specific onboarding details
+* Search clients by name or email
+* Client details modal
+* Data persistence using localStorage
+* Clean and responsive user interface
 
 ## Tech Stack
 
-- React
-- Vite
-- TypeScript
-- CSS
-- dnd-kit
-- localStorage
+* React
+* Vite
+* TypeScript
+* CSS
+* dnd-kit
+* localStorage
 
 ## Why This Stack
 
@@ -30,12 +30,31 @@ I chose React and Vite to rapidly build a modern, component-based interface. Typ
 
 ## Running Locally
 
+1. Clone the repository:
+
+```bash
+git clone https://github.com/jonrugova/kanban-crm.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd kanban-crm
+```
+
+3. Install dependencies:
+
 ```bash
 npm install
+```
+
+4. Start the development server:
+
+```bash
 npm run dev
 ```
 
-Open `http://localhost:5173` in your browser.
+5. Open the URL displayed in the terminal (typically **http://localhost:5173**) in your browser.
 
 ## Development Approach
 
@@ -47,12 +66,12 @@ AI was used to assist with ideation, debugging, and code review. All architectur
 
 ## Future Improvements
 
-- Backend and database integration
-- Authentication and user roles
-- Full document management
-- Activity history and audit logs
-- Advanced filtering and reporting
-- Calendar and email integrations
+* Backend and database integration
+* Authentication and user roles
+* Full document management
+* Activity history and audit logs
+* Advanced filtering and reporting
+* Calendar and email integrations
 
 ## Development Time
 
